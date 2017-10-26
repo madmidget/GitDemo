@@ -14,6 +14,8 @@ public class Launcher {
 
         g2.CountTo10();
 
+        g2.getClass();
+
 
     }
 }
